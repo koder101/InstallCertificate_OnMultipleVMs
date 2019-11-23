@@ -3,7 +3,7 @@
 User guide and description
 </p>
 
-## PowerShell script to automate the installation of certificate on multiple domain joined VMs.
+## PowerShell script to automate the installation of certificate on domain joined multiple VMs.
 
 
 ## Release Notes
